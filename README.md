@@ -1,2 +1,2 @@
 # Read tables from PDF
- A code to manipulate and organizate informations from a PDF. The main goal here is scrap and ajust PDF Tabels
+A code to manipulate and organize information from a PDF. The main goal here is scraping and adjust PDF Tables
